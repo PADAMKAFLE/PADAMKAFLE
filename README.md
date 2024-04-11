@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PADAMKAFLE
-- 👀 I’m interested in AI, IoMT,Healthcare releated AI
-- 🌱 I’m currently learning Cloud Computing
-- 💞️ I’m looking to collaborate on Microsoft Azure, Pythen , C# , Json
-- 📫 How to reach me padamkafle@outlook.com
+- 👋 Hello, I'm @PADAMKAFLE.
+- 👀 I have a keen interest in AI, IoMT, and healthcare-related AI.
+- 🌱 I specialize in Cloud Computing over Microsoft Azure.
+- 💞️ I'm eager to collaborate on projects involving Microsoft Azure, Python, C#, React(.js and native) and Json.
+- 📫 You can reach me at padamkafle@outlook.com.
 
 <!---
 PADAMKAFLE/PADAMKAFLE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
